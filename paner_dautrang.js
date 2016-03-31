@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://www.phanphoialu-mica.com/' target='_blank'><img src='http://www.phanphoialu-mica.com/sta/u/w/20365/pane.jpg' width='500px'/>ÄĂ o táº¡o seo chuyĂªn sĂ¢u</a>. thủ đức. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.phanphoialu-mica.com/' target='_blank'><img src='http://www.phanphoialu-mica.com/sta/u/w/20365/pane.jpg' width='500px'/>đại lý mica fs</a>. thủ đức. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
